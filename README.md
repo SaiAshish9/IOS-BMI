@@ -4,7 +4,7 @@
 project -> macOS -> command line tool -> product name
 ```
 
-#Swift Struct vs Classes
+# Swift Struct vs Classes
 
 ```
 struct cannot be inherited and doesn't support encapsulation
